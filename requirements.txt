@@ -1,0 +1,12 @@
+loguru
+numpy
+opencv_python
+pandas
+torch
+torchvision
+matplotlib
+oss2
+transformers
+scipy
+tslearn
+networkx
